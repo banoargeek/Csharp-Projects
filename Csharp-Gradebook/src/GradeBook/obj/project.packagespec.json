@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Coding\\cs\\gradebook\\CSharp_GradeBook\\src\\GradeBook\\GradeBook.csproj",
+    "projectUniqueName": "D:\\Coding\\git\\CSharp-Projects\\Csharp-Gradebook\\src\\GradeBook\\GradeBook.csproj",
     "projectName": "GradeBook",
-    "projectPath": "D:\\Coding\\cs\\gradebook\\CSharp_GradeBook\\src\\GradeBook\\GradeBook.csproj",
-    "outputPath": "D:\\Coding\\cs\\gradebook\\CSharp_GradeBook\\src\\GradeBook\\obj\\",
+    "projectPath": "D:\\Coding\\git\\CSharp-Projects\\Csharp-Gradebook\\src\\GradeBook\\GradeBook.csproj",
+    "outputPath": "D:\\Coding\\git\\CSharp-Projects\\Csharp-Gradebook\\src\\GradeBook\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

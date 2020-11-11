@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Coding\\cs\\gradebook\\CSharp_GradeBook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+    "projectUniqueName": "D:\\Coding\\git\\CSharp-Projects\\Csharp-Gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
     "projectName": "GradeBook.Tests",
-    "projectPath": "D:\\Coding\\cs\\gradebook\\CSharp_GradeBook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
-    "outputPath": "D:\\Coding\\cs\\gradebook\\CSharp_GradeBook\\test\\GradeBook.Tests\\obj\\",
+    "projectPath": "D:\\Coding\\git\\CSharp-Projects\\Csharp-Gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+    "outputPath": "D:\\Coding\\git\\CSharp-Projects\\Csharp-Gradebook\\test\\GradeBook.Tests\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "D:\\Coding\\cs\\gradebook\\CSharp_GradeBook\\src\\GradeBook\\GradeBook.csproj": {
-            "projectPath": "D:\\Coding\\cs\\gradebook\\CSharp_GradeBook\\src\\GradeBook\\GradeBook.csproj"
+          "D:\\Coding\\git\\CSharp-Projects\\Csharp-Gradebook\\src\\GradeBook\\GradeBook.csproj": {
+            "projectPath": "D:\\Coding\\git\\CSharp-Projects\\Csharp-Gradebook\\src\\GradeBook\\GradeBook.csproj"
           }
         }
       }
